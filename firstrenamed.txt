@@ -1,0 +1,3 @@
+This is my first version of project
+I want to commit 2
+Changed by dgg
